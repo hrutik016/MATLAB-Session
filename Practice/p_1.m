@@ -11,16 +11,14 @@ subplot(2,2,1);
 stem(n,y);
 xlabel('Time')
 ylabel('Amplitude')
-title('Unit step_ 18EC002')
  
 subplot(2,2,2);
 stem(n,z);
 xlabel('Time')
 ylabel('Amplitude')
-title('Unit Impluse_ 18EC002')
  
 subplot(2,2,3);
 stem(n,h);
 xlabel('Time')
 ylabel('Amplitude')
-title('Unit ramp_ 18EC014')
+
