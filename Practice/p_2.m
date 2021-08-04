@@ -7,7 +7,6 @@ b=input('Enter the value of Denominator :');
  
 subplot(3,1,1)
 pzmap(a,b);
-title('Pole-Zero Map 18EC002')
  
 g=tf(a,b);
 subplot(3,1,2)
