@@ -10,5 +10,5 @@ d = double(img).^gamma;
 d1 = double(img).^gamma2;
 
 imshow(img), title('original');
-figure, imshow(unit8(d)), title('power transformation') 
-figure, imshow(unit8(d)), title('power transformation 2nd type')
+figure, imshow(uint8(d)), title('power transformation') 
+figure, imshow(uint8(d1)), title('power transformation 2nd type')
