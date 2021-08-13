@@ -1,7 +1,6 @@
 # MATLAB-Session
 
-This Repo contains some of my Verilog & SystemVerilog Programs.
-
+This Repo contains my MATLAB college session programs
 
 ## Thank you For Visiting ❤️
 
