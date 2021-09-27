@@ -1,0 +1,15 @@
+%image addition
+
+clc;
+clear all;
+close all;
+
+img_1 = imread('cameraman.tif');
+double_img_1 = im2double(img_1);
+
+noisy = imnoise(double_img_1, 'salt & pepper', 0.02);
+
+%low pass filter using 3*3 mask
+f = [1 2 1; 2 4 2; 1 2 1];
+
+new_img = filter2(f, 
