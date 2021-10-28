@@ -6,4 +6,5 @@
 4. To increase brightness of an image.
 5. To decrease brightness of an image.
 6. To adjust contrast f an image, by constant.
-7. 
+7. edge detection
+8. unsharp masking
