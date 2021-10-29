@@ -8,3 +8,5 @@
 6. To adjust contrast f an image, by constant.
 7. edge detection
 8. unsharp masking
+9. motion blur
+
