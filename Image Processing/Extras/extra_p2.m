@@ -21,3 +21,6 @@ z = imsubtract(img, y);
 
 subplot(231); imshow(img); title('orinal image');
 subplot(232); imshow(resp); title('laplacian filtered image with 3*3 mask');
+subplot(233); imshow(sharp); title('sharpened image with 3*3 mask');
+subplot(234); imshow(y); title('sharpened image with 5*5 mask');
+subplot(235); imshow(z); title('sharpened image with 35*5 mask');

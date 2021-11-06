@@ -9,4 +9,5 @@
 7. edge detection
 8. unsharp masking
 9. motion blur
+10. min filtering and max filtering
 
