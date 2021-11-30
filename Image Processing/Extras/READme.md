@@ -11,3 +11,4 @@
 9. motion blur
 10. min filtering and max filtering
 11. image restoration of blurred image using inverse filter.
+12. wiener filter
